@@ -1,1 +1,1 @@
-![RL_algorithm_map](http://url/to/img.png)
+![RL_algorithm_map](https://raw.githubusercontent.com/victorlifan/Reinforcement-Learning-Specialization/main/RL_algorithm_map.png)
